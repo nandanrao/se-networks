@@ -1,0 +1,116 @@
+User Id,Start date,End date,Duration,Attempts,Grade,Response 1,4X+2,4X+6,(X-3)4 + 14,resposta única i malament,no sap,Bé,Casi bé,Malament
+344,11:44:35 19/12/2016,11:44:43 19/12/2016,8,1,,123,,,,1,,0,0,1
+378,08:59:07 20/12/2016,08:59:36 20/12/2016,29,1,,14xnombre de rajoles,,,,1,,0,0,1
+482,09:00:26 20/12/2016,09:01:37 20/12/2016,71,1,,4 rajoles x numero de jardineres + 2 rajoles,1,,,,,1,0,0
+358,09:01:32 20/12/2016,09:02:20 20/12/2016,48,1,,4 x Nombre  de rajoles + 2,1,,,,,1,0,0
+373,09:02:14 20/12/2016,09:03:29 20/12/2016,75,1,,6+4x,,1,,,,0,1,0
+391,09:02:15 20/12/2016,09:03:12 20/12/2016,57,1,,6+4·x,,1,,,,0,1,0
+450,09:02:23 20/12/2016,09:08:20 20/12/2016,357,1,,"Primera jardinera=6 rajoles (sempre)
+
+Qualsevols jardinera següent=+4 rajoles
+
+ex: 15 jardineres= 6(primera jardinera)+4+4+4+4+4+4+4+4+4+4+4+4+4+4= 62 rajoles
+
+",1,,,,,1,0,0
+383,09:02:34 20/12/2016,09:03:27 20/12/2016,53,1,,"no ho se
+",,,,,1,0,0,1
+387,09:02:53 20/12/2016,09:05:28 20/12/2016,155,1,,"El primer que has de fer, és veure quantes rajoles et demanan (X).
+
+A continuació multiplicar-ho per 4. 
+
+Finament sumar 2
+
+Fórmula : X * 4 + 2",1,,,,,1,0,0
+417,09:03:50 20/12/2016,09:04:47 20/12/2016,57,1,,x · 4 + 14,,,,1,,0,0,1
+404,09:04:04 20/12/2016,09:06:52 20/12/2016,168,1,,"Al nombre de jardineres li restem 3. Aleshores multipliquem el nombre que hem obtingut per 4, que són les rajoles que necessitem per jardinera. Llavors sumem 14 al nombre que hem obtingut de la multiplicació perquè són les rajoles inicials.",,,1,,,0,0,1
+418,09:04:07 20/12/2016,09:06:17 20/12/2016,130,1,,"Com hem vist en els problemes anteriors el procediment és el mateix.
+
+Al principi contem 6 rajoles del primer arbre, i després contem 4 pels arbres restants.
+
+La formula seria 6+4x",1,,,,,1,0,0
+374,09:04:44 20/12/2016,09:08:15 20/12/2016,211,1,,"	* _4 rajoles · X nombre de jardineres+2 _
+
+",1,,,,,1,0,0
+416,09:04:54 20/12/2016,09:06:50 20/12/2016,116,1,,"La fórmula seria:
+
+(Nombre de rajoles · 4) + 2",1,,,,,1,0,0
+393,09:05:12 20/12/2016,09:05:29 20/12/2016,17,0,,,,,,,1,0,0,1
+407,09:05:22 20/12/2016,09:05:47 20/12/2016,25,1,,no,,,,,1,0,0,1
+399,09:05:44 20/12/2016,09:09:04 20/12/2016,200,1,,"rajoles= x4+2
+
+x=nombre de jardineres",1,,,,,1,0,0
+376,09:05:48 20/12/2016,09:07:32 20/12/2016,104,1,,4x(el nombre de rajoles)+6,,1,,,,0,1,0
+442,09:05:51 20/12/2016,09:07:08 20/12/2016,77,1,,Primer contes les sis primeres rajoles de la primera jardinera i després a les altres fins la última vas sumant de quatre en quatre,,1,,,,0,1,0
+384,09:05:57 20/12/2016,09:14:56 20/12/2016,539,1,,la formula aplicable al número de jardineries que fossin seria: 1.- agafar les 14 rajoles que envolten les tres primeres jardineries 2.- a mesura que afageixes altres jardineries li vas sumant 4 rajoles = 4x + 2   (X = nombre de jardineries que et demanen),1,,,,,1,0,0
+363,09:06:01 20/12/2016,09:07:23 20/12/2016,82,1,,4 · Y + 2,1,,,,,1,0,0
+397,09:06:25 20/12/2016,09:15:58 20/12/2016,573,1,,"Primer hem d'agafar una jardinera, i comptar que l'envolten 6 rajoles. Sabent el  nombre de  jardineres que hi ha (per exemple 64), agafarem una jardinera (64 - 1 = 63) donant-li un valor de 6 rajoles al voltant, i multiplicarem el  nombre de jardineres restants per 4 (63 · 4 = 252), i li sumem les 6 rajoles abans (252 + 6 = 258). Això es deu a que no podrem comptar sis rajoles per  jardinera puix que dues faran de nexe amb una altre jardinera. Com que a l'inici hi ha dues rajoles que no  fa de nexe, les agruparem amb les 4 que havíem establert pòpies de la rajola. És a dir, que hi tindrem una jardinera evoltada per 6 rajoles, i les altres per 4 de forma consecutiva.",1,,,,,1,0,0
+355,09:06:27 20/12/2016,09:07:48 20/12/2016,81,1,,(número de jardineres * 4) + 2,1,,,,,1,0,0
+406,09:06:31 20/12/2016,09:07:09 20/12/2016,38,0,,,,,,,1,0,0,1
+401,09:06:32 20/12/2016,09:08:41 20/12/2016,129,1,,"1 JARDINERIA= 6 RAJOLES
+
+X JARDINERIES·6 RAJOLES= NOMBRE DE RAJOLES",,,,1,,0,0,1
+444,09:06:39 20/12/2016,09:08:50 20/12/2016,131,1,,"X = Nombe de jardineres
+
+Fórmula:
+
+Nº de rajoles = (X·4) +2  ",1,,,,,1,0,0
+479,09:07:37 20/12/2016,09:09:58 20/12/2016,141,1,,"Primer de tot comptem les 6 primeres rajoles de les jardineres i després multipliquem quatre pel nombre de jardineres restants.
+
+6 + 4x
+
+x= nombre de jardineres",,1,,,,0,1,0
+448,09:07:38 20/12/2016,09:09:11 20/12/2016,93,1,,Em de contar les dues del principi i desprès anar contant de 4 en4.,1,,,,,1,0,0
+476,09:07:54 20/12/2016,09:09:09 20/12/2016,75,1,,x·4+2 = nombre de rajoles,1,,,,,1,0,0
+360,09:07:57 20/12/2016,09:10:18 20/12/2016,141,1,,"6 * x - ((x -1) * 2)=4X+2
+",1,,,,,1,0,0
+456,09:08:01 20/12/2016,09:09:46 20/12/2016,105,1,,(x-1) · 4 + 6,1,,,,,1,0,0
+445,09:08:07 20/12/2016,09:09:58 20/12/2016,111,1,,"Primer conta les rajoles que envolten la primera jardinera, que són 6 i després contes 4 rajoles per cada jardinera que hi hagi però en restes una que és la primera que has contat.",1,,,,,1,0,0
+371,09:08:13 20/12/2016,09:10:22 20/12/2016,129,1,,"nombre de rajoles = (nombre de jardineres -1)*4 + 6
+",,1,,,,0,1,0
+396,09:08:22 20/12/2016,09:09:06 20/12/2016,44,1,,4x+2,1,,,,,1,0,0
+394,09:08:33 20/12/2016,09:09:11 20/12/2016,38,0,,,,,,,1,0,0,1
+409,09:08:44 20/12/2016,09:09:35 20/12/2016,51,1,,"No
+",,,,,1,0,0,1
+443,09:09:04 20/12/2016,09:11:44 20/12/2016,160,1,,(((num de jardineres)-3) · 4) +14,,,1,,,0,0,1
+474,09:09:43 20/12/2016,09:13:10 20/12/2016,207,1,,"x/y-6
+",,,,1,,0,0,1
+402,09:13:10 20/12/2016,09:14:42 20/12/2016,92,1,,Sempre multiplicar per quatre i afegir-hi dos.,1,,,,,1,0,0
+349,09:13:25 20/12/2016,09:14:43 20/12/2016,78,0,,,,,,,1,0,0,1
+381,09:13:38 20/12/2016,09:14:33 20/12/2016,55,0,,,,,,,1,0,0,1
+447,09:13:44 20/12/2016,09:14:23 20/12/2016,39,0,,,,,,,1,0,0,1
+365,09:14:33 20/12/2016,09:16:37 20/12/2016,124,1,,restar una jardinera per el nombre de jardineres totals i depres el que et dongui multiplicarlo per 4 i sumarli sis ,,,,,1,0,0,1
+410,09:15:01 20/12/2016,09:16:48 20/12/2016,107,1,,(4·X (nombre de jardineres))+2= (les rajoles que necessitaries),1,,,,,1,0,0
+449,09:16:02 20/12/2016,09:18:00 20/12/2016,118,1,,Simplement hauries de calcular el nombre total de jardineres multiplicat per 4 i li sumes 2 al resultat.,1,,,,,1,0,0
+389,09:18:43 20/12/2016,09:19:46 20/12/2016,63,1,,4 · núm. de rajoles + 2,1,,,,,1,0,0
+481,09:19:23 20/12/2016,09:27:37 20/12/2016,494,1,,"1 jardineria=6 rajoles
+
+3 jardineries=14 rajoles
+
+14·2=28=6 jardineries
+
+28+6=34 rajoles",,,,1,,0,0,1
+403,09:19:27 20/12/2016,09:27:20 20/12/2016,473,1,,"y= 6+ 4x(restants, és a dir, sense contar la primera)--> y= 6+4(x-1)
+
+on jardinera= x
+
+i on rajola= y
+
+comprovació=
+
+y= 6+ 4·2
+
+y= 6+8
+
+y=14",1,,,,,1,0,0
+483,09:22:17 20/12/2016,09:27:23 20/12/2016,306,1,,"7 jardineries = ? rajoles
+
+1 jardineria = 6 rajoles
+
+3 jardineries = 14 rajoles
+
+14 x 2 = 28 = 6 jardineries
+
+28 + 6 = 34 rajoles",,,,1,,0,0,1
+385,09:38:01 20/12/2016,09:39:46 20/12/2016,105,1,,Agafes les 6 primeres del primer hexagon i li sumes 4 per el nombre de rejoles.,,1,,,,0,1,0
+,,,,,,,,,,,,,,
+,,,,44,,,24,7,2,7,10,,,

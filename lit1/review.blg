@@ -1,0 +1,18 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'review.blg'
+[58] biber-darwin:303> INFO - === Wed May 31, 2017, 10:45:42
+[101] Biber.pm:359> INFO - Reading 'review.bcf'
+[216] Biber.pm:835> INFO - Found 6 citekeys in bib section 0
+[231] Biber.pm:3670> INFO - Processing section 0
+[267] Biber.pm:3840> INFO - Looking for bibtex format file 'review.bib' for section 0
+[269] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[279] bibtex.pm:1292> INFO - Found BibTeX data source 'review.bib'
+[311] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[311] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[311] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[311] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[324] bbl.pm:608> INFO - Writing 'review.bbl' with encoding 'ascii'
+[329] Utils.pm:164> WARN - The entry 'fibonacci' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[330] Utils.pm:164> WARN - The entry 'tardos' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[330] bbl.pm:712> INFO - Output to review.bbl
+[331] Biber.pm:109> INFO - WARNINGS: 2

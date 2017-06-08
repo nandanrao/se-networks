@@ -1,0 +1,66 @@
+q_num,q_lbl_cat,q_lbl_eng,bigfive_code,bigfive_lbl_eng,bigfive_lbl_cat
+1,M’agrada trobar-me amb altres persones,I like to meet with other people,1,Energy / Extraversion,Energia / Extraversió
+2,Comparteixo les meves coses amb altres persones,I share my things with other people,2,Agreeableness,Simpatia / Empatia
+3,Faig la meva feina sense deixadesa ni poca atenció,I do my job without carelessness and inattention,3,Conscientiousness,Meticulositat / Diligència
+4,Em poso nerviós per coses amb poca importància,I get nervous for silly things,4,Emotional Instability,Inestabilitat emocional
+5,Sé moltes coses,I know many things,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+6,Estic de mal humor,I am in a bad mood,4,Emotional Instability,Inestabilitat emocional
+7,Treballo dur i amb plaer,I work hard and with pleasure,3,Conscientiousness,Meticulositat / Diligència
+8,Discuteixo amb els altres amb entusiasme,I argue with others with excitement,4,Emotional Instability,Inestabilitat emocional
+9,M’agrada competir amb els altres,I like to compete with others,1,Energy / Extraversion,Energia / Extraversió
+10,Tinc molta imaginació,I have a great deal of fantasy,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+11,Em comporto correctament i honestament amb els altres,I behave correctly and honestly with others,2,Agreeableness,Simpatia / Empatia
+12,Aprenc ràpidament el que estudio a l’escola,I easily learn what I study at school,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+13,Sé quan els altres necessiten la meva ajuda,I understand when others need my help,2,Agreeableness,Simpatia / Empatia
+14,M’agrada moure’m i fer molta activitat,I like to move and to do a great deal of activity,1,Energy / Extraversion,Energia / Extraversió
+15,M’enfado fàcilment,I easily get angry,4,Emotional Instability,Inestabilitat emocional
+16,M’agrada donar regals,I like to give gifts,2,Agreeableness,Simpatia / Empatia
+17,Em barallo amb altres,I quarrel with others,4,Emotional Instability,Inestabilitat emocional
+18,"Quan el professor o professora pregunta a classe, jo sóc capaç de respondre correctament",When the teacher asks questions I am able to answer correctly,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+19,M’agrada estar amb altra gent,I like to be with others ,1,Energy / Extraversion,Energia / Extraversió
+20,M’involucro amb les coses que faig,I engage myself in the things I do,3,Conscientiousness,Meticulositat / Diligència
+21,"Si algú comet una injustícia contra mi, jo el / la perdono","If someone commits an injustice to me, I forgive her/him",2,Agreeableness,Simpatia / Empatia
+22,"Durant el temps de classe, estic concentrat (o concentrada) amb les coses que faig",During class-time I am concentrated on the things I do,3,Conscientiousness,Meticulositat / Diligència
+23,Puc dir fàcilment als altres el que penso,I can easily say to others what I think ,1,Energy / Extraversion,Energia / Extraversió
+24,M’agrada llegir llibres,I like to read books,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+25,"Quan acabo els deures, els repasso moltes vegades per a veure si els he fet correctament","When I finish my homework, I check it many times to see if I did it correctly",3,Conscientiousness,Meticulositat / Diligència
+26,Jo dic el que penso,I say what I think,1,Energy / Extraversion,Energia / Extraversió
+27,Tracto als meus companys amb afecte,I treat my peers with affection,2,Agreeableness,Simpatia / Empatia
+28,Respecto les normes i l’ordre,I respect the rules and the order,3,Conscientiousness,Meticulositat / Diligència
+29,M’ofenc fàcilment,I easily get offended,4,Emotional Instability,Inestabilitat emocional
+30,"Quan el professor o la professora expliquen alguna cosa, jo ho entenc immediatament",When the teacher explains something I understand immediately,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+31,Estic trist,I am sad,4,Emotional Instability,Inestabilitat emocional
+32,Em comporto amb els altres amb molta generositat,I behave with others with great kindness,2,Agreeableness,Simpatia / Empatia
+33,M’agraden els programes de televisió científics,I like scientific TV shows,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+34,"Si em comprometo a una cosa, ho compleixo",If I take an engagement I keep it ,3,Conscientiousness,Meticulositat / Diligència
+35,Faig coses per no avorrir-me,I do something not to get bored,1,Energy / Extraversion,Energia / Extraversió
+36,M’agrada veure les notícies per la televisió is saber què passa al món,"I like to watch TV news, and to know what happens in the world ",5,Intellect / Openness,Intel·lecte / Amplitud de mires
+37,La meva habitació està en ordre,My room is in order,3,Conscientiousness,Meticulositat / Diligència
+38,Sóc educat quan parlo amb altres persones ,I am polite when I talk with others,2,Agreeableness,Simpatia / Empatia
+39,"Si vull fer alguna cosa, no sóc capaç d’esperar-me i l’haig de fer immediatament","If I want to do something, I am not capable of waiting and I have to do it immediately",4,Emotional Instability,Inestabilitat emocional
+40,M’agrada parlar amb altra gent,I like to talk with others,1,Energy / Extraversion,Energia / Extraversió
+41,No sóc pacient,I am not patient,4,Emotional Instability,Inestabilitat emocional
+42,Sóc capaç de convèncer algú sobre el que penso,I am able to convince someone of what I think,1,Energy / Extraversion,Energia / Extraversió
+43,Sóc capaç de crear nous jocs i entreteniments,I am able to create new games and entertainments,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+44,"Quan començo alguna cosa nova, sempre l’haig d’acabar",When I start to do something I have to finish it at all costs,3,Conscientiousness,Meticulositat / Diligència
+45,"Si un company o companya de classe té alguna dificultat, l’ajudo",If a classmate has some difficulty I help her/him,2,Agreeableness,Simpatia / Empatia
+46,Puc solucionar els problemes de matemàtiques,I am able to solve mathematics problems,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+47,Confio en la resta,I trust in others,2,Agreeableness,Simpatia / Empatia
+48,M’agrada tenir les coses de l’escola ordenades,I like to keep all my school things in a great order,3,Conscientiousness,Meticulositat / Diligència
+49,Ràpidament perdo la calma,I easily lose my calm,4,Emotional Instability,Inestabilitat emocional
+50,"Quan parlo, els altres m’escolten i fan el que els dic","When I speak, the others listen to me and do what I say",1,Energy / Extraversion,Energia / Extraversió
+51,Tracto de manera amable també la gent que no m’agraden,I treat kindly also persons who I dislike,2,Agreeableness,Simpatia / Empatia
+52,M’agrada saber i aprendre noves coses,I like to know and to learn new things,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+53,Jugo només quan he acabat els deures,I play only when I finished my homework,3,Conscientiousness,Meticulositat / Diligència
+54,Faig les coses amb nerviosisme,I do things with agitation,4,Emotional Instability,Inestabilitat emocional
+55,M’agrada fer bromes,I like to joke,1,Energy / Extraversion,Energia / Extraversió
+56,És poc probable que desviï la meva atenció,It is unlikely that I divert my attention,3,Conscientiousness,Meticulositat / Diligència
+57,Faig amics ràpidament,I easily make friends,1,Energy / Extraversion,Energia / Extraversió
+58,Jo ploro,I weep,4,Emotional Instability,Inestabilitat emocional
+59,M’agradaria molt viatjar i conèixer les costums d’altres països,I would like very much to travel and to know the habits of other countries,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+60,Crec que la gent és bona i honesta,I think other people are good and honest,2,Agreeableness,Simpatia / Empatia
+61,Em preocupo per coses que no tenen importància,I worry about silly things,4,Emotional Instability,Inestabilitat emocional
+62,Entenc les coses immediatament,I understand immediately,5,Intellect / Openness,Intel·lecte / Amplitud de mires
+63,Sóc feliç i alegre,I am happy and lively,1,Energy / Extraversion,Energia / Extraversió
+64,Deixo als altres utilitzar les meves coses,I let other people use my things,2,Agreeableness,Simpatia / Empatia
+65,Faig els meus deures i obligacions,I do my own duty,3,Conscientiousness,Meticulositat / Diligència

@@ -1,0 +1,57 @@
+using weave
+using Weave
+weave
+using Weave
+weave
+weave("ps1.tex", informat="noweb")
+weave("ps1.tex", informat="noweb", out_path="output")
+average_clustering(g) = sum(local_clustering_coefficient(g))/size(g)[1]
+
+local = local_clustering_coefficient(g)
+gplot(g, nodelabel = local)
+average_clustering(g) = sum(local_clustering_coefficient(g))/size(g)[1]
+local = local_clustering_coefficient(g)
+gplot(g, nodelabel = local)
+gplot(g, nodelabel=local)
+gplot(g)
+gplot(StarGraph(5))
+local
+local_clustering_coefficient(g)
+gplot(g, nodelabel=local)
+gplot(g)
+gplot(g, nodelabel = degree(g))
+gplot(g, nodelabel = local_clustering_coefficient(g))
+weave("ps1.tex", informat="noweb", out_path="output")
+gplot(g)
+gplot(g)
+weave("ps1.tex", informat="noweb", out_dir="output")
+using Weave
+weave("ps1.tex", informat="noweb", out_dir="output")
+weave("ps1.tex", informat="noweb", outdir="output")
+weave("ps1.tex", informat="noweb", out_dir="output")
+weave("ps1.tex", informat="noweb", out_path="output")
+gplot(g)
+weave("ps1.tex", informat="noweb", out_path="output")
+weave("ps1.tex", informat="noweb", out_path="output")
+weave("ps1.tex", doctype="tex", informat="noweb", out_path="output")
+gplot(g)
+gplot(g, nodelabel = degree(g))
+weave("ps1.tex", doctype="tex", informat="noweb", out_path="output")
+draw(PDF("test.pdf", 16cm, 16cm), gplot(g))
+draw(PNG("test.png", 6in, 6in), gplot(g))
+draw(PNG("test.png", 15cm, 15cm), gplot(g))
+draw(PNG("output/figures/labels.png", 15cm, 15cm), gplot(g, nodelabel=degree(g)))
+weave("ps1.tex", doctype="tex", informat="noweb", out_path="output")
+weave("ps1.tex", doctype="tex", informat="noweb", out_path="output")
+draw(PNG("output/figures/clustering.png", 15cm, 15cm), gplot(g, nodelabel=local_clustering_coefficient(g)))
+weave("ps1.tex", doctype="tex", informat="noweb", out_path="output")
+erdos_renyi
+gplot(erdos_renyi(100, .2))
+gplot(erdos_renyi(100, .2))
+r = erdos_renyi(100, .1)
+plot(x = degree(r), Geom.histogram)
+r = erdos_renyi(1000, .1)
+plot(x = degree(r), Geom.histogram)
+r = erdos_renyi(10000, .1)
+plot(x = degree(r), Geom.histogram)
+gplot(r)

@@ -1,0 +1,206 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{fortune}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d02b4e8e2ea11262609e99936cdb20be}{%
+           family={Fortune},
+           familyi={F\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a8813c6fc67d61735e9349b0c2b8d89f}{%
+           family={Hopcroft},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=65ad4a04380ca0de3c2eb2fad9c10aed}{%
+           family={Wyllie},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8fe1318e4620f657051ca7c4d0be225e}
+      \strng{fullhash}{8fe1318e4620f657051ca7c4d0be225e}
+      \strng{authornamehash}{8fe1318e4620f657051ca7c4d0be225e}
+      \strng{authorfullhash}{8fe1318e4620f657051ca7c4d0be225e}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Theoretical Computer Science}
+      \field{number}{2}
+      \field{title}{The directed subgraph homeomorphism problem}
+      \field{volume}{10}
+      \field{year}{1980}
+      \field{pages}{111\bibrangedash 121}
+      \range{pages}{11}
+    \endentry
+    \entry{fibonacci}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=df555d2abecb1ec38796b128270c3cf0}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=efce6f6d496cdcc1bb07fb47dfecb3aa}{%
+           family={Roughgarden},
+           familyi={R\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3b65c0aec42ebdc08432a6ece3a86584}{%
+           family={Tardos},
+           familyi={T\bibinitperiod},
+           given={\'{E}va},
+           giveni={\'{E}\bibinitperiod}}}%
+        {{hash=1ac5af7da34d9dc7f30a2ca378bba57b}{%
+           family={Walkover},
+           familyi={W\bibinitperiod},
+           given={Asher},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{0c739f40d8bc5bd4ef886a5b219e9854}
+      \strng{fullhash}{d5a46e00f4342d204edcda2e4cf07dcd}
+      \strng{authornamehash}{0c739f40d8bc5bd4ef886a5b219e9854}
+      \strng{authorfullhash}{d5a46e00f4342d204edcda2e4cf07dcd}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Colloquium on Automata, Languages, and Programming}
+      \field{title}{Braess's paradox, Fibonacci numbers, and exponential inapproximability}
+      \field{year}{2005}
+      \field{pages}{497\bibrangedash 512}
+      \range{pages}{16}
+    \endentry
+    \entry{designing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=efce6f6d496cdcc1bb07fb47dfecb3aa}{%
+           family={Roughgarden},
+           familyi={R\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{fullhash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{authornamehash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{authorfullhash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computer and System Sciences}
+      \field{number}{5}
+      \field{title}{On the severity of Braess's paradox: designing networks for selfish users is hard}
+      \field{volume}{72}
+      \field{year}{2006}
+      \field{pages}{922\bibrangedash 953}
+      \range{pages}{32}
+    \endentry
+    \entry{thesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=efce6f6d496cdcc1bb07fb47dfecb3aa}{%
+           family={Roughgarden},
+           familyi={R\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Cornell University}%
+      }
+      \strng{namehash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{fullhash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{authornamehash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{authorfullhash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Selfish routing}
+      \field{type}{phdthesis}
+      \field{year}{2002}
+    \endentry
+    \entry{selfish}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=efce6f6d496cdcc1bb07fb47dfecb3aa}{%
+           family={Roughgarden},
+           familyi={R\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT press Cambridge}%
+      }
+      \strng{namehash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{fullhash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{authornamehash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \strng{authorfullhash}{efce6f6d496cdcc1bb07fb47dfecb3aa}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Selfish routing and the price of anarchy}
+      \field{year}{2005}
+    \endentry
+    \entry{tardos}{article}{}
+      \name{author}{2}{}{%
+        {{hash=efce6f6d496cdcc1bb07fb47dfecb3aa}{%
+           family={Roughgarden},
+           familyi={R\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3b65c0aec42ebdc08432a6ece3a86584}{%
+           family={Tardos},
+           familyi={T\bibinitperiod},
+           given={\'{E}va},
+           giveni={\'{E}\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{d16ed73d44d3910d59455fd4bc5d1aef}
+      \strng{fullhash}{d16ed73d44d3910d59455fd4bc5d1aef}
+      \strng{authornamehash}{d16ed73d44d3910d59455fd4bc5d1aef}
+      \strng{authorfullhash}{d16ed73d44d3910d59455fd4bc5d1aef}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the ACM (JACM)}
+      \field{number}{2}
+      \field{title}{How bad is selfish routing?}
+      \field{volume}{49}
+      \field{year}{2002}
+      \field{pages}{236\bibrangedash 259}
+      \range{pages}{24}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

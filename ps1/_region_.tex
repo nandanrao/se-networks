@@ -1,0 +1,29 @@
+\message{ !name(ps1.tex)}\documentclass[a4paper,12pt]{article}
+\usepackage{mathtools,amsfonts,amssymb,amsmath, bm,commath,multicol}
+\usepackage{algorithmicx, tkz-graph, algorithm, fancyhdr, pgfplots}
+\usepackage{fancyvrb}
+
+\usepackage[noend]{algpseudocode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{3/5/2017 ::: Nandan Rao}
+\lhead{Social and Economic Networks ::: Problemset 1}
+\rfoot{\thepage}
+
+
+\DefineVerbatimEnvironment{juliaout}{Verbatim}{}
+\DefineVerbatimEnvironment{juliacode}{Verbatim}{fontshape=sl, fontsize=\tiny}
+\DefineVerbatimEnvironment{juliaterm}{Verbatim}{}
+
+
+\begin{document}
+
+\message{ !name(ps1.tex) !offset(136) }
+average_clustering(g) = sum(local_clustering_coefficient(g))/size(g)[1]
+
+local = local_clustering_coefficient(g)
+gplot(g, nodelabel = local)
+\message{ !name(ps1.tex) !offset(176) }
+
+\end{document}

@@ -1,0 +1,811 @@
+﻿Curs,Diferència de temps entre inici i l'enviament (minuts),Email,Nom complet,Q01->1. Em resulta fàcil parlar dels meus sentiments amb els altres,Q01->10. M’és complicat defensar els meus drets,"Q01->11. Quan vull, puc fer que els altres es sentin bé",Q01->12. A vegades penso que tota la meva vida serà un “desastre”,Q01->13. A vegades penso que els altres es queixen que els tracto malament,Q01->14. És difícil per mi afrontar els canvis a la meva vida,"Q01->15. Sóc capaç de controlar l’estrès (l’ansietat, el nerviosisme, etc.)",Q01->16. Em costa mostrar a les persones pròximes que em preocupo per elles,Q01->17. Sóc capaç de posar-me en el lloc de l’altra persona i sentir les seves emocions,Q01->18. Em costa mantenir-me motivat o motivada,"Q01->19. Quan vull, puc controlar el meu enuig",Q01->2. Sovint em costa veure les coses des del punt de vista de l’altra persona,Q01->20. Sóc feliç amb la meva vida,Q01->21. Em veig com un bon negociador o una bona negociadora,Q01->22. Algunes vegades m’implico en coses que més tard me’n penedeixo,Q01->23. Poso molta atenció als meus sentiments,Q01->24. Em sento bé amb mi mateix o mateixa,"Q01->25. Tendeixo a cedir, fins i tot quan sé que tinc raó",Q01->26. Sóc incapaç de canviar els sentiments dels altres,Q01->27. Penso que les coses m’aniran bé a la vida,Q01->28. Algunes vegades m'agradaria tenir una relació millor amb els meus pares,Q01->29. Sóc capaç d’adaptar-me bé a ambients nous,"Q01->3. En general, sóc una persona altament motivada",Q01->30. Intento controlar els meus pensaments i no preocupar-me massa sobre les coses,Q01->4. Em costa controlar els meus sentiments,Q01->5. La meva vida no és agradable,Q01->6. No em porto bé amb els meus companys de classe,"Q01->7. Sovint, canvio d’opinió",Q01->8. Em costa saber amb exactitud quina emoció estic sentint,Q01->9. M’agrada la meva aparença,Userid,Es va trametre el:,Max Data amb timestamp
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM
+Exercicis per a 2n d'ESO,3.63,GuerreroVidal@fje.edu,Marta Guerrero Vidal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,177,6/13/2016 10:00:43 AM,6/13/2016 9:57:05 AM
+Exercicis per a 2n d'ESO,3.43,IbanezNavarro@fje.edu,Carme Ibanez Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,178,6/13/2016 10:02:34 AM,6/13/2016 9:59:08 AM
+Exercicis per a 2n d'ESO,4.27,LesauvageJimenez@fje.edu,Carles Lesauvage Jimenez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,179,6/13/2016 9:54:07 AM,6/13/2016 9:49:51 AM
+Exercicis per a 2n d'ESO,4.97,PalaciosRoca@fje.edu,Marti Palacios Roca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,183,6/13/2016 9:58:35 AM,6/13/2016 9:53:37 AM
+Exercicis per a 2n d'ESO,4.42,PeradejordiNavarro@fje.edu,Alex Peradejordi Navarro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,184,6/13/2016 9:53:04 AM,6/13/2016 9:48:39 AM
+Exercicis per a 2n d'ESO,5.75,PerezBuisan@fje.edu,Marco Perez Buisan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,185,6/13/2016 10:02:18 AM,6/13/2016 9:56:33 AM
+Exercicis per a 2n d'ESO,4.58,PerezPerez@fje.edu,Helena Perez Perez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,186,6/13/2016 9:51:16 AM,6/13/2016 9:46:41 AM
+Exercicis per a 2n d'ESO,7.48,PlanaPotrony@fje.edu,Driss Plana Potrony,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,187,6/13/2016 10:12:22 AM,6/13/2016 10:04:53 AM
+Exercicis per a 2n d'ESO,4.77,RipollViladomiu@fje.edu,Nuria Ripoll Viladomiu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,188,6/13/2016 9:53:55 AM,6/13/2016 9:49:09 AM
+Exercicis per a 2n d'ESO,5.13,RiusPalet@fje.edu,Jaume Rius Palet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,189,6/13/2016 9:59:28 AM,6/13/2016 9:54:20 AM
+Exercicis per a 2n d'ESO,4.95,SayrachMartinezdeTejada@fje.edu,Laura Sayrach Martinez de Tejada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,191,6/13/2016 10:01:13 AM,6/13/2016 9:56:16 AM
+Exercicis per a 2n d'ESO,4.13,TomasCid@fje.edu,Ana Tomas Cid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,192,6/13/2016 10:10:20 AM,6/13/2016 10:06:12 AM
+Exercicis per a 2n d'ESO,9.55,TomasGimenez@fje.edu,Adriana Tomas Gimenez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,193,6/13/2016 10:17:34 AM,6/13/2016 10:08:01 AM
+Exercicis per a 2n d'ESO,6.57,TorrescasanaDominguez@fje.edu,Daniela Torrescasana Dominguez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,194,6/13/2016 9:58:21 AM,6/13/2016 9:51:47 AM
+Exercicis per a 2n d'ESO,9.67,PardoGarcia-Mila@fje.edu,Alexandra Pardo Garcia-Mila,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,225,6/13/2016 10:12:04 AM,6/13/2016 10:02:24 AM
+Exercicis per a 2n d'ESO,5.77,PerezTuldra@fje.edu,Guillem Perez Tuldra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,227,6/13/2016 10:01:57 AM,6/13/2016 9:56:11 AM
+Exercicis per a 2n d'ESO,5.83,PimentelGutierrez@fje.edu,Antonio David Pimentel Gutierrez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,228,6/13/2016 10:03:47 AM,6/13/2016 9:57:57 AM
+Exercicis per a 2n d'ESO,5.87,QueraltParellada@fje.edu,Max Queralt Parellada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,231,6/13/2016 10:10:27 AM,6/13/2016 10:04:35 AM
+Exercicis per a 2n d'ESO,4.22,QuinonesGarcia@fje.edu,Maria Visitacion Quinones Garcia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,232,6/13/2016 9:52:49 AM,6/13/2016 9:48:36 AM
+Exercicis per a 2n d'ESO,4.17,RegalesPons@fje.edu,Carlota Regales Pons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,233,6/13/2016 9:53:43 AM,6/13/2016 9:49:33 AM
+Exercicis per a 2n d'ESO,5.57,RicciPujol@fje.edu,Patricia Ricci Pujol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,234,6/13/2016 9:57:18 AM,6/13/2016 9:51:44 AM
+Exercicis per a 2n d'ESO,5.63,RiviereBeleta@fje.edu,Julia Riviere Beleta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,235,6/13/2016 9:56:52 AM,6/13/2016 9:51:14 AM
+Exercicis per a 2n d'ESO,1.77,RosalesBadal@fje.edu,David Rosales Badal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,237,6/13/2016 10:12:00 AM,6/13/2016 10:10:14 AM
+Exercicis per a 2n d'ESO,6.73,TarresVives@fje.edu,Nicolas Tarres Vives,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,240,6/13/2016 9:58:32 AM,6/13/2016 9:51:48 AM
+Exercicis per a 2n d'ESO,4.43,TudoMas@fje.edu,David de Tudo Mas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,241,6/13/2016 9:54:45 AM,6/13/2016 9:50:19 AM
+Exercicis per a 2n d'ESO,7.18,VasquezCanadell@fje.edu,Joel Vasquez Canadell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,242,6/13/2016 10:09:36 AM,6/13/2016 10:02:25 AM
+Exercicis per a 2n d'ESO,3.45,VinyolesBruguera@fje.edu,Aleix Vinyoles Bruguera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,243,6/13/2016 10:06:17 AM,6/13/2016 10:02:50 AM

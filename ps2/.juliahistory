@@ -1,0 +1,86 @@
+ls
+readtable
+readtable("data/high-energy.txt")
+readtable("data/high-energy.txt", sep="\t", skiprows=1:5)
+readtable("data/high-energy.txt", seperator="\t", skiprows=1:5)
+readtable("data/high-energy.txt", separator="\t", skiprows=1:5)
+readtable("data/high-energy.txt", separator='\t', skiprows=1:5)
+readtable("data/high-energy-trimmed.txt", separator='\t')
+dat = readtable("data/high-energy-trimmed.txt", separator='\t')
+dat
+names!(dat, ["Row"])
+names!(dat, ["from", "to"])
+names!(dat, [:from, :to])
+dat
+[f for f in dat]
+array(dat)
+convert(Array, dat)
+[f for f in convert(Array, dat)]
+[f[1] for f in convert(Array, dat)]
+[f[2] for f in convert(Array, dat)]
+[f[0] for f in convert(Array, dat)]
+[f[1] for f in convert(Array, dat)]
+[f for f in convert(Array, dat)]
+[sum(f) for f in convert(Array, dat)]
+a = convert(Array, dat)
+a
+a[:, 1]
+a[1, :]
+a
+len(a)
+size(a)
+size(a)[2]
+g = Graph()
+add_edge!(g, [1, 2])
+g
+a
+a[1,:]
+e = a[1,:]
+add_edge(g, e[1], e[2])
+add_edge!(g, e[1], e[2])
+unique
+unique(a[:,1])
+sort(unique(a[:,1]))
+g
+nodes
+dat
+groupby(dat, :from)
+unique(a[:, 2])
+unique(a[:, 1])
+u = unique(a[:, 2])
+nodes
+zip(1:size(nodes)[1], nodes)
+1:size(nodes)[1]
+collect(1:size(nodes)[1])
+zip(collect(1:size(nodes)[1]), nodes)
+zip(collect(1:size(nodes)[1]), nodes)[1]
+zip(collect(1:size(nodes)[1]), nodes)
+Dict(zip(collect(1:size(nodes)[1]), nodes)[1])
+get(lookup, 1)
+get(lookup, :2)
+get(lookup, 2)
+get(lookup, 5)
+collect(zip(nodes, collect(1:size(nodes)[1])))
+get(lookup, 5)
+map(n => Symbol(n), nodes)
+map(n -> Symbol(n), nodes)
+get(lookup, :140)
+get(lookup, Symbol(140))
+lookup
+get
+get(lookup, 5)
+get(lookup, 5, 1)
+get(lookup, 5, 1)
+get(lookup, 31191, 1)
+a
+[get(lookup, x) for x in a]
+[get(lookup, x, 1) for x in a]
+d
+nodes
+count(res)
+res
+gplot(g)
+graphs = [erdos_renyi(5000, p) for p in [0.01,0.1,.25,.6,.9]]
+graphs
+gplot(graphs[1])
+gplot(graphs[1])
