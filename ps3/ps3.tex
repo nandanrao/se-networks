@@ -1,0 +1,88 @@
+ \documentclass[a4paper,12pt]{article}
+\usepackage{mathtools,amsfonts,amssymb,amsmath, bm,commath,multicol}
+\usepackage{algorithmicx, tkz-graph, algorithm, fancyhdr, pgfplots}
+\usepackage{fancyvrb}
+
+\usepackage[backend=biber]{biblatex}
+\addbibresource{ps3.bib}
+
+\usepackage[noend]{algpseudocode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{12/6/2017 ::: Nandan Rao}
+\lhead{Social and Economic Networks ::: Problemset 3}
+\rfoot{\thepage}
+
+\renewcommand{\thesubsection}{\thesection.\alph{subsection}}
+
+
+\begin{document}
+\section{}
+\subsection{}
+
+We begin with the setup which would generally lead to a start network, namely:
+%
+$$
+c_{ij} > w_{ij}(\delta - \delta^2)
+$$
+%
+We then reduce the cost function of a set of nodes, $K \subset N$, such that:
+%
+$$
+c_{ij: i \in K} < w_{ij: i \in K}(\delta - \delta^2)
+$$
+%
+In this case, these nodes in $K$ would want to be connected to every node, as their cost is low. However, nodes not in $K$ will of course not benefit from being directly connected to these nodes when they could be connected by 2nd degree. The result will be similar to the original star, with one central node connected to everyone, but with a subset of periphery nodes, those in $K$, which will form a fully-connected subcomponent. Naturally, to be efficient, the central node of the star will also be in $K$.
+
+\subsection{}
+The strongly efficient network(s) will simply be any network in which the degree of every node is 1, which will all naturally take the form of disconnected pairs of researchers. This is easily seen as our objective function here, the overall utility of the graph, is simply the sum of the individual utility functions of the nodes, each of which is maximized with the smallest possible positive degree, in this case d = 1.
+
+The set of pairwise stable networks, on the other hand, will be different. Note that in the efficient case, every node has an equal degree. However, edges will form wherever two nodes have equal degree (it will always be better for them to connect then to not). This quickly leads to the fully-connected network. This shows the greater principle that in co-authorship model pairwise stability leads to socially-inefficient outcome, as authors always over-extend themselves!
+
+\section*{Kleinber 1}
+
+\subsection*{a}
+In both cases, player 1 only takes into account her own signal, and player 2 takes into account her own signal and only player 1's action. In both cases, they will always follow their own private signal.
+
+\subsection*{b}
+Player 3 in this case can infer, similar to before, that player 2's action will be equal to their signal, and therefore player 3 can know perfectly player 2's signal.
+
+\subsection*{c}
+No! In contrast to the example in the chapter, here player 3 knows player 2's signal, but regardless of player 1's action, player 2's action followed her signal, therefore player 3 here knows nothing about player 1.
+
+\subsection*{d}
+Player 3 will always follow her own signal! She at most knows the signal of just one other person, who also knew the signal of just one other person, etc. So as long as the tie-breaker goes to the private signal, the action will not change.
+
+\subsection*{e}
+As stated above, in the situation where all players give preference to their private signal above that of a single external signal, a cascade will never be possible here, as what allowed the cascade before was the fact that as soon as the vote of the external signals was more than 2-uneven in any direction, your private signal could not swing the vote to the other side, and as such the information cascade started.
+
+\section*{Kleinber 4}
+
+\subsection*{a}
+
+\begin{align*}
+p(G | C_R) &= \frac{ p(C_R | G) p(G)}{p(C_R)} \\
+p(G | C_R) &= \frac{ p(C_R | G) p(G)}{ p(C_R, G) + p(C_R, B)} \\
+p(G | C_R) &= \frac{ p(C_R | G) p(G)}{ p(C_R | G)p(G) + p(C_R | B)p(B)} \\
+p(G | C_R) &= \frac{ \frac{1}{9} \frac{1}{2}}{ \frac{1}{9}\frac{1}{2} + \frac{4}{9}\frac{1}{2}} \\
+p(G | C_R) &= \frac{1}{5}
+\end{align*}
+
+\subsection*{b}
+This makes all the difference, as now the difference between the winning vote for Low and the losing vote for High is now less than 2, which means your vote is a swing vote! You follow your vote.
+
+\subsection*{c}
+If you get a Low signal, you will reject. Player 11 in this instance knows that at least 3 players have recieved a Low signal (either you or player 9 will have recieved a low signal if you reject). This continues the cascade, as no private signal of his own can swing that vote. If, however, you recieve a High signal, you will accept, and player 11 will know that there were 2 High and 2 Low signals (1,2 Low and 9,10 High), therefore he will follow HIS own signal.
+
+
+\section*{Question}
+
+I took a look at a seminal paper by Gomez et al. \cite{inferring}, where the authors derive a maximum likelihood measure of a graph given a particular contagion pattern, and then provide efficient estimations of an optimal graph via that measure. They make one very interesting assumption and take advantage of one clever property of their measurement to construct a greedy algorithm..
+
+The first interesting assumption is to incorporate continuously-occuring exogenous seeds, so that as time progresses, any node in the network might be infected even if they did not come in contact with another infected node. The motivation for this is natural, in viral marketing this might be people that learned about the product through mass media, for example. Incorporating this would, one would expect, make their model more complicated, but it has the opposite effect. They model this by including a new type of edge, an $\epsilon$-edge, that links every node to every other node. The exogenous seed is represented as a contagion from an infected node along one of these edges. The chance of contagion along this node is some value $\epsilon$, which is much much less than the regular chance of contagion along other edges. They then take advantage of the sparsity of the graph they are assuming (in fact, imposing directly), to assume approximate equality between the probability of the disease NOT spreading along the $\epsilon$-edge that always exists with the probability of a true edge existing over which the disease does NOT spread. This allows them to drop non-speading edges from their likelihood model, and reformulate it as a search for a maximum weight directed spanning tree of a directed acyclic graph, a solved problem!
+
+The other clever property they recognize is that of submodularity in their likelihood function over a single contagion, which implies submodularity over their whole likelihood function, which is affine in the individual contagion likelihoods (in fact, simply a direct sum). This property naturally allows them to construct a greedy algorithm that, at every step, adds the edge which increases the likelihood of the newly-created subgraph. This implies quadratic time in the edges! The submodularity provides a bound on how far off this greedy estimation will be from a true optimum.
+
+\printbibliography
+\end{document}

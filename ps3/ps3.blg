@@ -1,0 +1,15 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'ps3.blg'
+[55] biber-darwin:303> INFO - === Mon Jun 12, 2017, 21:25:21
+[96] Biber.pm:359> INFO - Reading 'ps3.bcf'
+[205] Biber.pm:835> INFO - Found 1 citekeys in bib section 0
+[236] Biber.pm:3670> INFO - Processing section 0
+[266] Biber.pm:3840> INFO - Looking for bibtex format file 'ps3.bib' for section 0
+[269] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[276] bibtex.pm:1292> INFO - Found BibTeX data source 'ps3.bib'
+[300] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[300] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[301] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[301] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[305] bbl.pm:608> INFO - Writing 'ps3.bbl' with encoding 'ascii'
+[305] bbl.pm:712> INFO - Output to ps3.bbl
