@@ -1,0 +1,93 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{mathtools,amsfonts,amssymb,amsmath, bm,commath,multicol}
+\usepackage{algorithmicx, tkz-graph, algorithm, fancyhdr, pgfplots}
+\usepackage{fancyvrb, amsthm}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{proofs.bib}
+
+\usepackage[noend]{algpseudocode}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}{Proposition}[theorem]
+\newtheorem{lemma}[theorem]{Lemma}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Nandan Rao}
+\lhead{Selfish Routing with Positive Externalities}
+\rfoot{\thepage}
+
+\begin{document}
+
+\title{Selfish Routing with Positive Externalities}
+
+\author{Nandan Rao}
+
+\maketitle
+
+\section{Background}
+Summarize most relevant ideas from lit review.
+
+\section{Setup}
+This paper considers routing situations, similar to Braess's Paradox (TODO: cite something), but in which the edge costs decrease with the number of agents carried.
+
+We will consider an atomic version, as a starting place, with multiple sources and a single destination. Say some things about the setup...
+
+
+\section{Submodularity}
+
+\begin{lemma}
+Given multiple sources $S$, multiple agents $A$, a shared destination $t$, and convex and non-decreasing cost function $C(e, f)$, shared up to the paramaterized constant $e$ by each edge, the social cost, $\Gamma$, for a given graph $G$, at Walldrop equilibrium is submodular in the graph edges:
+
+$$
+\Gamma(G) = \sum_{a \in A} d(S_a, t)
+$$
+%
+Where distance function d(s,t) is defined as the distance along the shortest path, $p(s,t)$, between s and t:
+%
+$$
+d(s,t) = \sum_{e \in p(s,t)} C(e,f)
+$$
+\end{lemma}
+
+\begin{proof}
+We begin with the following definition of submodularity for function $f$, given $H \subset G$:
+%
+$$
+f(H \cup \{ x \}) - f(H) \geq f(G \cup \{ x \}) - f(G)
+$$
+%
+We consider a special case of this, in which $H$ has exactly one less edge, $y$, than G:
+%
+$$
+H \cup \{ y \} = G
+$$
+%
+We split all our edges into three categories: those left unchanged by the removal of $\{ y \}$,  $e: f_e^H = f_e^G$, those in which the flow is greater in the restricted subgraph, $e: f_e^H > f_e^G$, and those in which the flow is less in the restricted subgraph, $e: f_e^H < f_e^G$. We then prove submodularity, given that $\{ x \}$ in our definition from submodularity is chosen from any of the three types.
+
+\subsubsection*{$e: f_e^H = f_e^G$}
+We split this into two situations: One in which the removal of the edge causes all agents to route along the same path in both graphs, the other in which they route along different paths. It is trivial to see that when $\{ x \}$ is pulled in the first case, submodularity holds with equality:
+$$
+f(H \cup \{ x \}) - f(H) = f(G \cup \{ x \}) - f(G)
+$$
+%
+We then look at the case when the restricted subgraph routes these agents differently than the original graph. We must now show that if we had removed $\{ y \}$ according to a greedy evaluation of social gain, these new agents from $\{ x \}$ being routed differently must be routed differently in an equal or better fashion than the original agents from $\{ y \}$.
+
+\subsubsection*{$e: f_e^H > f_e^G$}
+
+By construction, if we consider the agents as picking their routes sequentially, the first agent will not receive a benefit from the removal of an edge (otherwise we would not have been at equilibrium before). With this in mind we try to show that additional agents on $\{ y \}$ can only have additional improvements, if they had improvements in $G$.
+
+\subsubsection*{$e: f_e^H > f_e^G$}
+We will divide these again into two types, those in which the new flow is 0, and those in which the new flow is greater than 0.
+
+The flow is 0 is an interesting phenomenon where our submodularity cannot hold, however, it also a phenomenon that we can safely ignore, as a graph with an edge with zero agents will be equivalent in final optimality to a graph without that edge. Therefore, in our goal to put bounds on optimality of a greedy algorithm, this situation violates submodularity, but does not violate our proof of reliability of the algorithm.
+
+If the flow is greater than 0, we will need to show that if the gain was not greater in this restricted subgraph, they would have shifted their path earlier and the flow would be 0.
+
+
+\end{proof}
+
+
+
+\printbibliography
+\end{document}
