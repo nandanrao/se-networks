@@ -5,6 +5,13 @@
 
 import numpy as np
 from equilibrium import *
+from multiprocessing import Pool
+
+def mc_map(fn, dat):
+    pool = Pool(multiprocessing.cpu_count() - 1)
+    ans = pool.map(fn, dat)
+    pool.close()
+    return ans
 
 def random_placements(N, A):
     raw_choices = [np.random.choice(range(N), 2, False) for _ in range(A)]
@@ -47,12 +54,21 @@ def remove_and_score(e, state, graph, fn):
     except nx.exception.NetworkXNoPath:
         return float('inf') # some node not reachable
 
+class RemovingScorer(object):
+    def __init__(self, state, graph, fn):
+        self.state = state
+        self.graph = graph
+        self.fn = fn
+    def __call__(self, edge):
+        return (remove_and_score(edge, self.state, self.graph, self.fn), edge)
+
 def score_edges(state, graph, fn):
     N = state.shape[1]
     G = make_graph(graph)
     edges = list(G.edges())
-    scored_edges = [(remove_and_score(e, state, graph, fn), e) for e in edges]
+    scored_edges = mc_map(RemovingScorer(state, graph, fn), edges)
     return sorted(scored_edges, key = lambda t: t[0])
+
 
 def get_travelled_edges(state):
     return list(make_graph(state.sum(axis=0)).edges())
@@ -62,7 +78,6 @@ def get_best_edge(state, graph, fn):
     travelled_edges = get_travelled_edges(state)
     edges = [e for e in edges if e[1] in travelled_edges]
     # best_edges = [e for e in edges if e[0] == edges[0][0]]
-
     # prefer to return a travelled edge if possible
     # print edges
     # for e in best_edges:
@@ -102,18 +117,32 @@ def find_optimum_subgraph(state, graph, fn, i=100):
         i = i-1
     return best()
 
+class Scorer(object):
+    def __init__(self, state, fn):
+        self.state = state
+        self.fn = fn
+    def __call__(self, graph):
+        return get_equilibrium_score(self.state, graph, self.fn)
 
-# find optimum subgraph -- exhaustive search
 def combinatorial_optimum(state, graphs, fn):
-    scores = [get_equilibrium_score(state, g, fn) for g in graphs]
-    return sorted(zip(scores, combinations), key = lambda x: x[0])[0]
+    scores = mc_map(Scorer(state, fn), graphs)
+    return sorted(zip(scores, graphs), key = lambda x: x[0])[0]
 
 def get_equilibrium_score(state, graph, fn):
-    equilibrium_state = find_equilibrium(state, graph, fn)
-    return score_graph(equilibrium_state, graph, fn)
+    try:
+        equilibrium_state = find_equilibrium(state, graph, fn)
+        return score_graph(equilibrium_state, graph, fn)
+    except nx.NetworkXNoPath:
+        return float('inf')
 
 def combinations(els, curr = []):
     """ returns list of lists with combinations of element in og list"""
     if len(els) == 1:
         return [curr + els] + [curr]
     return combinations(els[1:], curr + els[:1])+ combinations(els[1:], curr)
+
+# mvove to notebook?
+def random_distances(graph):
+    n = graph.shape[0]
+    rands = np.ceil((np.random.power(.15, n**2).reshape((n,n)) * 10))
+    return graph * rands
