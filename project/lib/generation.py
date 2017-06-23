@@ -5,6 +5,7 @@
 
 import numpy as np
 from equilibrium import *
+import multiprocessing
 from multiprocessing import Pool
 
 def mc_map(fn, dat):
