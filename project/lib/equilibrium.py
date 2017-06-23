@@ -33,7 +33,6 @@ def sorted_path(m):
 
 def start_end(m):
     """ start and end node of path matrix """
-    m = np.nan_to_num(m)
     a,b = m.sum(axis=1), m.sum(axis=0)
     summed = a + b
     s,f =  np.nonzero(summed == 1)[0]
@@ -47,18 +46,13 @@ def get_start_end(state, i):
     p = get_path(m)
     return (p[0], p[-1])
 
-def apply_nans(mat, nan_mat):
-    """ MUTATES MAT -- makes that shit nan."""
-    mat[np.isnan(nan_mat)] = np.nan
-    return mat
-
 def update_path(state, path, i):
     """ Updates the state with a new path for a given agent """
     N = state.shape[1]
     update = path_to_mat(path, N)
     s = np.copy(state)
     s[i,:,:] = update
-    return apply_nans(s, state)
+    return s
 
 def get_potential_state(state, i):
     s = np.copy(state)
@@ -67,36 +61,46 @@ def get_potential_state(state, i):
 
 def path_to_mat(path, N):
     a = np.zeros((N, N))
-    for x,y in path:
-        a[x,y] = 1
+    try:
+        for x,y,v in path:
+            a[x,y] = v['weight']
+    except ValueError:
+        for x,y in path:
+            a[x,y] = 1
     return a
 
-def get_distance(state, fn):
+def get_distance(state, graph, fn):
     flow = np.sum(state, axis=0)
-    vfn = np.vectorize(fn, otypes=[np.float])
-    distance = vfn(flow)
-    return distance
+    it = np.nditer([flow, graph, None])
+    for f,g,o in it:
+        # Distance is 0 if edge not in graph!
+        o[...] = 0 if g == 0 else fn(f,g)
+    return it.operands[2]
 
 def make_graph(dist):
     return nx.DiGraph(dist)
 
 def get_shortest_path(dist, start, end):
+    # Accept edge pairs or node indices
+    if type(start) == tuple:
+        start = start[0]
+        end = end[1]
     G = make_graph(dist)
-    p = nx.dijkstra_path(G, start[0], end[1])
+    p = nx.dijkstra_path(G, start, end)
     return node_to_edge_list(p)
 
-def get_next_path(state, i, fn):
+def get_next_path(state, graph, i, fn):
     pot = get_potential_state(state, i)
-    dist = get_distance(pot, fn)
+    dist = get_distance(pot, graph, fn)
     s,e = get_start_end(state, i)
     path = get_shortest_path(dist, s, e)
     new_state = update_path(state, path, i)
     return new_state
 
-def find_equilibrium(state, fn):
+def find_equilibrium(state, graph, fn):
     new_state = np.copy(state)
-    for i in range(state.shape[0]):
-        new_state = get_next_path(state, i, fn)
+    reducer = lambda s,i: get_next_path(s, graph, i, fn)
+    new_state = reduce(reducer, range(state.shape[0]), new_state)
     if np.all(new_state == state):
         return state
-    return find_equilibrium(new_state, fn)
+    return find_equilibrium(new_state, graph, fn)

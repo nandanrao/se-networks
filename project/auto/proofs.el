@@ -5,6 +5,19 @@
                      '(("article" "a4paper" "12pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
                      '(("biblatex" "backend=biber") ("algpseudocode" "noend")))
+   (add-to-list 'LaTeX-verbatim-environments-local "VerbatimOut")
+   (add-to-list 'LaTeX-verbatim-environments-local "SaveVerbatim")
+   (add-to-list 'LaTeX-verbatim-environments-local "LVerbatim*")
+   (add-to-list 'LaTeX-verbatim-environments-local "LVerbatim")
+   (add-to-list 'LaTeX-verbatim-environments-local "BVerbatim*")
+   (add-to-list 'LaTeX-verbatim-environments-local "BVerbatim")
+   (add-to-list 'LaTeX-verbatim-environments-local "Verbatim*")
+   (add-to-list 'LaTeX-verbatim-environments-local "Verbatim")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "Verb")
    (TeX-run-style-hooks
     "latex2e"
     "article"
@@ -25,10 +38,10 @@
     "amsthm"
     "biblatex"
     "algpseudocode")
-   (LaTeX-add-environments
+   (LaTeX-add-bibliographies)
+   (LaTeX-add-amsthm-newtheorems
     "theorem"
     "proposition"
-    "lemma")
-   (LaTeX-add-bibliographies))
+    "lemma"))
  :latex)
 
